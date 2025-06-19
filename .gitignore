@@ -1,0 +1,10 @@
+# Presentations
+DevTestOps-Version_Control_with_Git.pdf
+
+# Git files
+.git/
+
+# Bring It On (Task)
+*.db
+*.log
+
